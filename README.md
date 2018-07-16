@@ -1,5 +1,7 @@
 # kinoparser
 
+Test work for python Developer
+
 ## Installation
 
 ```pip3 install -r requirements.txt```
